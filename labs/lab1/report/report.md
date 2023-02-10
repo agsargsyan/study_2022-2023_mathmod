@@ -10,7 +10,7 @@ toc-title: "Содержание"
 
 ## Bibliography
 bibliography: bib/cite.bib
-csl: pandoc/csl/gost-r-7-0-5-2008-numeric.csl
+
 
 ## Pdf output format
 toc: true # Table of contents
@@ -20,7 +20,6 @@ lot: true # List of tables
 fontsize: 12pt
 linestretch: 1.5
 papersize: a4
-documentclass: scrreprt
 ## I18n polyglossia
 polyglossia-lang:
   name: russian
