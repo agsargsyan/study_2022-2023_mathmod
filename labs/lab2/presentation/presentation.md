@@ -26,8 +26,6 @@ header-includes:
  - '\beamer@ignorenonframefalse'
  - '\makeatother'
 ---
-:::
-::::::::::::::
 
 # Цели и задачи работы
 
