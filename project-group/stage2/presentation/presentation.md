@@ -2,7 +2,7 @@
 ## Front matter
 lang: ru-RU
 title: "Химические реакции, стохастическое горение"
-subtitle: "Этап №1 "
+subtitle: "Этап №2"
 author: 
   - Саргсян А. Г.    
   - Тасыбаева Н. С.  
