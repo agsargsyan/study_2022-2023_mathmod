@@ -71,11 +71,10 @@ section-titles: true
 
 $$
  \begin{cases}
-   \\{dN}/{dt}=-{N}/{τ}*exp(-{E_a}/{kT_0})=-uN
+   {dN}/{dt}=-{N}/{τ}*exp(-{E_a}/{kT_0})
    \\
-   \\{dT}/{dt}=-{q}/{N_0c}*{dN}/{dt}
+   {dT}/{dt}=-{q}/{N_0c}*{dN}/{dt}
  \end{cases}
-\
 $$
 
 ## Выводы
